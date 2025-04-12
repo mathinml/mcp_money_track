@@ -1,5 +1,5 @@
 """
-PDF 图像文本提取 MCP 服务入口点
+记账 MCP 服务入口点
 """
 from .src.server import run_server
 
